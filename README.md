@@ -1,13 +1,19 @@
 # Haji_Jan
 
-WelCome to my github
-Join us at telegram 
-t.me/Afg_Black001
+# Free
+
+# Commands:
+
+$ git clone https://github.com/SawashRahi/Haji_Jan
+$ cd Haji_Jan
+$ chmod 777 Sawash
+$ ·/Sawash
 
 
-Commands:
 
-git clone https://github.com/SawashRahi/Haji_Jan
-cd Haji_Jan
-./ Oh-my-zsh
+
+
+
+
+
 
